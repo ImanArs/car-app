@@ -1,5 +1,7 @@
 Car Marketplace 🚗
+
 Getting Started
+
 These instructions will guide you through setting up and running the project locally for development and testing purposes.
 
 Prerequisites
@@ -18,12 +20,12 @@ bash
 - cd auto-app
 - Install the required dependencies:
 
-- npm install
+- [--npm install]
 - Running the Application
 - To start the development server, run:
-- npm run dev
+- [--npm run dev]
 The application will be accessible at http://localhost:3000.
 
 Building the Application
 - To build the application for development, run:
-- npm run build
+- [--npm run build]
