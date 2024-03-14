@@ -1,0 +1,10 @@
+.root {
+  @apply max-w-[500px] flex flex-col gap-3 box-border;
+
+  .textField {
+    @apply border border-[#bfbfbf] w-full rounded-[4px] p-[10px];
+  }
+  button {
+    @apply bg-[#1565C0];
+  }
+}

@@ -1,0 +1,217 @@
+,
+  {
+    "id": 11,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "type": "SUV",
+    "image": "image11.jpg",
+    "logo": "logo11.jpg",
+    "sales": [
+      {
+        "date": "22-11-2022",
+        "reseller": "shop-ten"
+      },
+      {
+        "date": "05-01-2023",
+        "reseller": "dealer-eleven"
+      },
+      {
+        "date": "20-03-2023",
+        "reseller": "shop-eleven"
+      },
+      {
+        "date": "15-05-2023",
+        "reseller": "dealer-twelve"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "make": "Nissan",
+    "model": "Altima",
+    "type": "SEDAN",
+    "image": "image12.jpg",
+    "logo": "logo12.jpg",
+    "sales": [
+      {
+        "date": "10-12-2022",
+        "reseller": "dealer-eleven"
+      },
+      {
+        "date": "05-02-2023",
+        "reseller": "shop-twelve"
+      },
+      {
+        "date": "30-04-2023",
+        "reseller": "dealer-thirteen"
+      },
+      {
+        "date": "25-06-2023",
+        "reseller": "shop-thirteen"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "type": "SUV",
+    "image": "image13.jpg",
+    "logo": "logo13.jpg",
+    "sales": [
+      {
+        "date": "18-01-2023",
+        "reseller": "shop-fourteen"
+      },
+      {
+        "date": "05-03-2023",
+        "reseller": "dealer-fifteen"
+      },
+      {
+        "date": "29-05-2023",
+        "reseller": "shop-fifteen"
+      },
+      {
+        "date": "10-07-2023",
+        "reseller": "dealer-sixteen"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "make": "Mazda",
+    "model": "CX-5",
+    "type": "SUV",
+    "image": "image14.jpg",
+    "logo": "logo14.jpg",
+    "sales": [
+      {
+        "date": "12-02-2023",
+        "reseller": "dealer-seventeen"
+      },
+      {
+        "date": "30-04-2023",
+        "reseller": "shop-sixteen"
+      },
+      {
+        "date": "25-06-2023",
+        "reseller": "dealer-eighteen"
+      },
+      {
+        "date": "20-08-2023",
+        "reseller": "shop-seventeen"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "type": "SUV",
+    "image": "image15.jpg",
+    "logo": "logo15.jpg",
+    "sales": [
+      {
+        "date": "01-03-2023",
+        "reseller": "shop-eighteen"
+      },
+      {
+        "date": "20-05-2023",
+        "reseller": "dealer-nineteen"
+      },
+      {
+        "date": "15-07-2023",
+        "reseller": "shop-nineteen"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "make": "Tesla",
+    "model": "Model 3",
+    "type": "SEDAN",
+    "image": "image16.jpg",
+    "logo": "logo16.jpg",
+    "sales": [
+      {
+        "date": "11-04-2023",
+        "reseller": "dealer-fifteen"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "make": "Ram",
+    "model": "1500",
+    "type": "TRUCK",
+    "image": "image17.jpg",
+    "logo": "logo17.jpg",
+    "sales": [
+      {
+        "date": "20-05-2023",
+        "reseller": "shop-sixteen"
+      },
+      {
+        "date": "15-07-2023",
+        "reseller": "dealer-twenty"
+      },
+      {
+        "date": "10-09-2023",
+        "reseller": "shop-twenty"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "make": "GMC",
+    "model": "Sierra",
+    "type": "TRUCK",
+    "image": "image18.jpg",
+    "logo": "logo18.jpg",
+    "sales": [
+      {
+        "date": "01-06-2023",
+        "reseller": "dealer-seventeen"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "make": "Porsche",
+    "model": "911",
+    "type": "COUPE",
+    "image": "image19.jpg",
+    "logo": "logo19.jpg",
+    "sales": [
+      {
+        "date": "29-07-2023",
+        "reseller": "shop-eighteen"
+      },
+      {
+        "date": "20-09-2023",
+        "reseller": "dealer-eighteen"
+      },
+      {
+        "date": "15-11-2023",
+        "reseller": "shop-nineteen"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "make": "Ford",
+    "model": "Mustang",
+    "type": "COUPE",
+    "image": "image20.jpg",
+    "logo": "logo20.jpg",
+    "sales": [
+      {
+        "date": "10-08-2023",
+        "reseller": "dealer-twenty"
+      },
+      {
+        "date": "25-10-2023",
+        "reseller": "shop-twenty"
+      }
+    ]
+  }

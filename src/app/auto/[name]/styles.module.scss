@@ -1,0 +1,35 @@
+.root {
+  margin: 60px 0;
+  display: flex;
+  justify-content: space-between;
+  .left {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: space-between;
+      .card {
+        @apply max-w-[500px] w-full flex flex-col gap-5 relative overflow-hidden;
+        img {
+          @apply h-[140px];
+        }
+        .wrapper {
+          @apply px-2 flex flex-col gap-3;
+          h2 {
+            @apply text-[20px] flex justify-between;
+            span {
+              @apply text-[#fff] bg-[#1565C0] opacity-[0.9] p-1;
+            }
+          }
+        }
+        .go_btn {
+          @apply mt-auto;
+        }
+        .add_fav_btn {
+          @apply absolute top-[-10px] right-[-10px] text-[#fff] rounded-[50%] px-3 py-0 text-[28px] box-border border transition-all;
+          &:hover {
+            @apply text-[#1565C0] border-[#1565C0] bg-[#fff];
+          }
+        }
+      }
+    }
+}

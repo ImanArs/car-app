@@ -1,0 +1,11 @@
+.filters {
+  display: flex;
+  gap: 48px;
+  align-items: flex-end;
+
+  .select {
+    display: flex;
+    flex-direction: column;
+    min-width: 136px;
+  }
+}

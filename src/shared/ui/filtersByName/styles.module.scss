@@ -1,0 +1,50 @@
+
+  .filter_wrapper {
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    .logo_wrapper {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+
+      .logo_card {
+        width: 60px;
+        cursor: pointer;
+        margin: 0 auto;
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+        }
+      }
+    }
+    .mark_wrapper {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+
+      .mark_card {
+        cursor: pointer;
+        display: flex;
+        gap: 10px;
+        color: #000;
+        font-size: 20px;
+        padding: 6px 0;
+        border-bottom: 1px solid #888;
+        &:hover {
+          color: #1565C0;
+        }
+        span {
+          color: #888;
+        }
+      }
+    }
+    .button {
+      margin-left: auto;
+      align-self: flex-end;
+    }
+  }

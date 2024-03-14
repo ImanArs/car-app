@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "make": "BMW",
+    "model": "X3",
+    "type": "JEEP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2018_BMW_X3_xDrive30d_M_Sport_Automatic_3.0_Front.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/800px-BMW_logo_%28gray%29.svg.png",
+    "price": 55000,
+    "sales": [
+      {
+        "date": "21-03-2022",
+        "reseller": "shop-one"
+      },
+      {
+        "date": "05-07-2022",
+        "reseller": "dealer-two"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "make": "Toyota",
+    "model": "Camry",
+    "type": "SEDAN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2025_Toyota_Camry_Hybrid_XSE_%28United_States%29_front_view.png",
+    "logo": "https://www.toyota-bishkek.kg/content/dam/logos/large-logo-toyota.jpeg",
+    "price": 35000,
+    "sales": [
+      {
+        "date": "15-02-2022",
+        "reseller": "dealer-one"
+      },
+      {
+        "date": "10-04-2022",
+        "reseller": "shop-two"
+      },
+      {
+        "date": "29-06-2022",
+        "reseller": "dealer-three"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "make": "Honda",
+    "model": "CR-V",
+    "type": "SUV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Honda_CR-V_2.2_i-DTEC_Lifestyle_%28IV%29_%E2%80%93_Frontansicht%2C_25._Januar_2014%2C_D%C3%BCsseldorf.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honda.svg/2560px-Honda.svg.png",
+    "price": 40000,
+    "sales": [
+      {
+        "date": "10-01-2022",
+        "reseller": "dealer-two"
+      },
+      {
+        "date": "20-03-2022",
+        "reseller": "shop-three"
+      },
+      {
+        "date": "15-05-2022",
+        "reseller": "dealer-four"
+      },
+      {
+        "date": "01-08-2022",
+        "reseller": "shop-five"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "make": "Ford",
+    "model": "F-150",
+    "type": "TRUCK",
+    "image": "https://media.ed.edmunds-media.com/ford/f-150/2024/oem/2024_ford_f-150_crew-cab-pickup_lariat_fq_oem_1_1600.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/800px-Ford_logo_flat.svg.png",
+    "price": 45000,
+    "sales": [
+      {
+        "date": "05-04-2022",
+        "reseller": "shop-three"
+      },
+      {
+        "date": "10-06-2022",
+        "reseller": "dealer-six"
+      },
+      {
+        "date": "15-09-2022",
+        "reseller": "shop-seven"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "type": "COUPE",
+    "image": "https://avatars.mds.yandex.net/get-verba/3587101/2a00000180506a368e2d73f3bca06a65d836/cattouch",
+    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/7f/Chevrolet_new_logo.png",
+    "price": 40000,
+    "sales": [
+      {
+        "date": "12-05-2022",
+        "reseller": "shop-four"
+      },
+      {
+        "date": "05-08-2022",
+        "reseller": "dealer-five"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "type": "SUV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mercedes-Benz_X254_1X7A6345.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/640px-Mercedes-Benz_Star_2022.svg.png",
+    "price": 60000,
+    "sales": [
+      {
+        "date": "28-06-2022",
+        "reseller": "dealer-five"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "make": "Audi",
+    "model": "A4",
+    "type": "SEDAN",
+    "image": "https://avatars.mds.yandex.net/get-verba/787013/2a0000016b7e65c13c5acad18b2101595da2/cattouchret",
+    "logo": "https://w7.pngwing.com/pngs/656/902/png-transparent-audi-car-honda-logo-gt4-european-series-text-trademark-logo.png",
+    "price": 50000,
+    "sales": [
+      {
+        "date": "09-07-2022",
+        "reseller": "shop-six"
+      },
+      {
+        "date": "25-09-2022",
+        "reseller": "dealer-seven"
+      },
+      {
+        "date": "15-11-2022",
+        "reseller": "shop-eight"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "make": "Lexus",
+    "model": "RX",
+    "type": "SUV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lexus_RX_450h_F_Sport_%28IV%29_%E2%80%93_Frontansicht%2C_14._Februar_2016%2C_D%C3%BCsseldorf.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Lexus_division_emblem.svg/1200px-Lexus_division_emblem.svg.png",
+    "price": 55000,
+    "sales": [
+      {
+        "date": "19-08-2022",
+        "reseller": "dealer-seven"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "make": "Subaru",
+    "model": "Outback",
+    "type": "WAGON",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2016_Subaru_Outback_%28BS9%29_2.5i_Premium_station_wagon_%282018-07-30%29.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Subaru_%282019%29.svg/800px-Subaru_%282019%29.svg.png",
+    "price": 38000,
+    "sales": [
+      {
+        "date": "14-09-2022",
+        "reseller": "shop-eight"
+      },
+      {
+        "date": "30-10-2022",
+        "reseller": "dealer-eight"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "type": "HATCHBACK",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Volkswagen_Logo_till_1995.svg/1200px-Volkswagen_Logo_till_1995.svg.png",
+    "price": 32000,
+    "sales": [
+      {
+        "date": "03-10-2022",
+        "reseller": "dealer-nine"
+      },
+      {
+        "date": "20-11-2022",
+        "reseller": "shop-nine"
+      },
+      {
+        "date": "10-01-2023",
+        "reseller": "dealer-ten"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+.root {
+  @apply flex flex-col gap-6 my-4;
+  .filter {
+    @apply flex justify-between items-center;
+  }
+  .ad_block {
+    @apply ml-auto self-end w-[230px] py-5 px-7 rounded-2xl border bg-[#1565c0ae] border-[#1565C0] relative;
+    img {
+      @apply absolute w-40 bottom-[102%] right-3;
+    }
+    h2 {
+      @apply text-[#274a73] text-[24px];
+    }
+  }
+  .cars_wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px 0;
+  }
+}
